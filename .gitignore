@@ -1,1 +1,4 @@
 gzipsplit
+test/ab.img
+s_*.gz
+s_*.txt
