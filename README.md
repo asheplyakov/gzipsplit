@@ -17,6 +17,9 @@ $ gzipsplit /path/to/full.cz
   writing file #3
 ```
 
+The output will be written to files `s_N.gz` (with N = 0, 1, 2 in
+this example). This naming is hard coded, sorry.
+
 ## Building
 
 ```bash
